@@ -3,8 +3,8 @@
     "section": "header-1",
     "button": {
         "id": 1,
-        "content": "BUY NOW",
-        "path": "https://themeforest.net/checkout/from_item/34615039?license=regular"
+        "content": "İLETİŞİM",
+        "path": "https://d4s1330rt4l.com/iletisim"
     },
     "logo": [
         {
@@ -14,5 +14,5 @@
             "src": "../images/logo/logo-dark.png"
         }
     ],
-    "slogan": "Inbio is a personal portfolio template. You can customize all."
+    "slogan": "Ali Kemal Ofluoğlu Portfolio."
 }

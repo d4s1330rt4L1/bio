@@ -23,7 +23,7 @@ const IndexDesignerPage = ({ data }) => {
     const content = normalizedData(data?.homePage?.content || []);
 
     return (
-        <Layout className="home-vedio" pageTitle="Home Designer">
+        <Layout className="home-vedio" pageTitle="Ali Kemal Ofluoğlu">
             <Header
                 data={{
                     ...data.header,

@@ -1,13 +1,13 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://www.yourdomain.tld",
-        title: "Inbio - Personal Portfolio React Template",
-        description: "Awesome Gatsby template",
-        author: "Rainbow IT",
-        siteLanguage: "en",
+        siteUrl: "https://d4s1330rt4l.com",
+        title: "Ali Kemal Ofluoğlu - Owner @ Alternatik",
+        description: "Ali Kemal Ofluoğlu Biography",
+        author: "d4s1330rt4L",
+        siteLanguage: "tr",
         image: "banner.jpg",
-        titleTemplate: "inbio",
-        twitterUsername: "@rainbowit",
+        titleTemplate: "d4s1330rt4L",
+        twitterUsername: "@gravelessthemezarsiz",
         getform_url:
             "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
         socials: [
@@ -31,8 +31,8 @@ module.exports = {
             },
         ],
         contact: {
-            phone: "01234567890",
-            email: "admin@example.com",
+            phone: "+905432397500",
+            email: "alikemal@d4s1330rt4l.com",
         },
     },
     plugins: [
