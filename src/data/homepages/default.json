@@ -6,20 +6,20 @@
             "section": "hero-section",
             "headings": [
                 {
-                    "content": "WELCOME TO MY WORLD"
+                    "content": "Biyografi - Portfolyo"
                 },
                 {
-                    "content": "Hi, I’m <span>Jone Lee</span>"
+                    "content": "Merhaba <span>Ali Kemal ben</span>"
                 }
             ],
             "animated_texts": [
-                "Developer.",
-                "Professional Coder.",
-                "Designer."
+                "Geliştirici.",
+                "Tasarımcı.",
+                "Yönetici."
             ],
             "texts": [
                 {
-                    "content": "I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that."
+                    "content": "Kadere dikiliyosa bi nedeni var?"
                 }
             ],
             "skills": [
@@ -59,48 +59,48 @@
             "id": "default-home-services",
             "section": "service-section",
             "section_title": {
-                "title": "What I Do",
-                "subtitle": "Features"
+                "title": "Neler Yapıyorum?",
+                "subtitle": "Özelliklerim"
             },
             "items": [
                 {
                     "id": 1,
-                    "title": "Business Stratagy",
+                    "title": "İş Stratejisi",
                     "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
                     "icon": "Menu",
                     "path": "#!"
                 },
                 {
                     "id": 2,
-                    "title": "App Development",
+                    "title": "Uygulama Geliştirme",
                     "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
                     "icon": "BookOpen",
                     "path": "#!"
                 },
                 {
                     "id": 3,
-                    "title": "App Development",
+                    "title": "Web Geliştirme",
                     "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
                     "icon": "Tv",
                     "path": "#!"
                 },
                 {
                     "id": 4,
-                    "title": "Mobile App",
+                    "title": "Sosyal Medya",
                     "description": "There are many variations of passages of Lorem Ipsum available, but the majority.",
                     "icon": "Twitch",
                     "path": "#!"
                 },
                 {
                     "id": 5,
-                    "title": "CEO Marketing",
+                    "title": "Mentor",
                     "description": "always free from repetition, injected humour, or non-characteristic words etc.",
                     "icon": "Wifi",
                     "path": "#!"
                 },
                 {
                     "id": 6,
-                    "title": "Personal Portfolio April",
+                    "title": "Kişisel Portfolyo",
                     "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
                     "icon": "Slack",
                     "path": "#!"
@@ -111,7 +111,7 @@
             "id": "default-home-portfolio",
             "section": "portfolio-section",
             "section_title": {
-                "title": "My Portfolio",
+                "title": "Portfolyom",
                 "subtitle": "Visit my portfolio and keep your feedback"
             },
             "items": [
