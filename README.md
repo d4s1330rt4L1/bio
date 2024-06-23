@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  d4s1330rt4L Portfolio - CV
 </h1>
 
 ## 🚀 Quick start
